@@ -987,6 +987,7 @@ public class DomainValidator implements Serializable {
         "kerryproperties", // kerryproperties Kerry Trading Co. Limited
         "kfh", // kfh Kuwait Finance House
         "kia", // kia KIA MOTORS CORPORATION
+        "kids", // kids DotKids Foundation Limited
         "kim", // kim Afilias Limited
         "kinder", // kinder Ferrero Trading Lux S.A.
         "kindle", // kindle Amazon Registry Services, Inc.
@@ -1128,6 +1129,7 @@ public class DomainValidator implements Serializable {
 //        "mtpc", // mtpc Mitsubishi Tanabe Pharma Corporation (Retired)
         "mtr", // mtr MTR Corporation Limited
         "museum", // museum Museum Domain Management Association
+        "music", // music DotMusic Limited
         "mutual", // mutual Northwestern Mutual MU TLD Registry, LLC
 //        "mutuelle", // mutuelle Fédération Nationale de la Mutualité Française (Retired)
         "nab", // nab National Australia Bank Limited
@@ -1386,6 +1388,7 @@ public class DomainValidator implements Serializable {
         "song", // song Amazon Registry Services, Inc.
         "sony", // sony Sony Corporation
         "soy", // soy Charleston Road Registry Inc.
+        "spa", // spa Asia Spa and Wellness Promotion Council Limited
         "space", // space DotSpace Inc.
 //        "spiegel", // spiegel SPIEGEL-Verlag Rudolf Augstein GmbH &amp; Co. KG
         "sport", // sport Global Association of International Sports Federations (GAISF)
